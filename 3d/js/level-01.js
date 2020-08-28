@@ -2331,13 +2331,13 @@
                         title: 'You open your eyes to a dark, unfamiliar room.',
                         body: ['your most recent memory, the whistling of arrows as your caravan got ',
                                'mercilessly attacked. ',
-                               'Where you captured? But by whom and where are you now?']
+                               'Were you captured? But by whom and where are you now?']
                     },
 
                     {
                       title: 'you feel immensely fatigued.',
                       body: ['As you move your tongue in your dry mouth, you recoil as you notice that ',
-                             'you now have less teeth than before.',
+                             'you now have fewer teeth than before.',
                              'You quickly pull yourself together and squint your eyes trying to ',
                              'make sense of your surroundings. There has to be a way out.']
                     },
@@ -2358,7 +2358,7 @@
 
                       [ 'You take a deep breath and start counting upwards to three. ',
                         'Once you reach number two, you plunge forwards. There is no time to waste, ',
-                        'and waiting would only plant seeds of doubt in your mind. You then, fall in the dark.' ]
+                        'and waiting would only plant seeds of doubt in your mind. You then fall in the dark.' ]
         ]
         // --
       }
